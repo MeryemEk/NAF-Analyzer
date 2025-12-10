@@ -297,7 +297,7 @@ def main():
     # File uploads
     st.sidebar.subheader("1. Upload NAF Data")
     naf_file = st.sidebar.file_uploader(
-        "Upload INSEE NAF CSV file",
+        "Upload INSEE NAF CSV file. You can download it from https://annuaire-entreprises.data.gouv.fr/export-sirene",
         type=['csv'],
         help="Upload the INSEE company registry CSV file for your sector"
     )
