@@ -225,7 +225,7 @@ def plot_opportunity_map(
         "REKOLT analysis.\n"
         "Paris (75) and 1st couronne (92,93,94) are grouped.\n"
         "Market opportunity clusters are defined by combining supply clusters "
-        "(based on number of 3D establishments per 100k inhab.)\n"
+        "(based on number of establishments per 100k inhab.)\n"
         "and demand clusters (based on public tenders).\n"
         'For instance, "white space" are departments with high demand but normal or low supply.',
         ha="center",
